@@ -1,0 +1,1 @@
+/home/dcl3nd/dev/agentic-workspace/prompts/runtimes/claude_code/workspaces/tools/pdf-extraction-workspace/CLAUDE.md
